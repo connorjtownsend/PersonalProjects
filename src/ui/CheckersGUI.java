@@ -38,8 +38,7 @@ import javafx.event.EventHandler;
 public class CheckersGUI extends Application {
     /**Method start used to start application
      * @return no return applicable
-     * @param Primary stage to display game on
-     * @param game of CheckersLogic used to access methods and variables from this class
+     * @param primaryStage to display game on
      */
     public void start(Stage primaryStage) {
 
@@ -333,7 +332,7 @@ public class CheckersGUI extends Application {
     }
     /**Method used to update gui game baord
      * @param gameboard matrix used to keep track of location of each checker
-     * @param gridpane used to store rectangles that represent the checkers and squares on the board
+     * @param grid used to store rectangles that represent the checkers and squares on the board
      */
     public void updateGUIBoard(char[][] gameboard, GridPane grid){
         // integers to store counts to keep track of which rectangles that have been used already
