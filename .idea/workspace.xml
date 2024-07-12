@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf1ad828-32d3-45a6-add5-226d8b3e9f51" name="Changes" comment="Added code for game logic">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/CheckersComputerPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/CheckersComputerPlayer.java" afterDir="false" />
+    <list default="true" id="bf1ad828-32d3-45a6-add5-226d8b3e9f51" name="Changes" comment="Added code for GUI">
+      <change beforePath="$PROJECT_DIR$/src/ui/CheckersTextConsole.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/CheckersTextConsole.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1720774682759</updated>
-      <workItem from="1720774683773" duration="1137000" />
+      <workItem from="1720774683773" duration="1257000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -100,7 +99,23 @@
       <option name="project" value="LOCAL" />
       <updated>1720775778058</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added code for ai player logic">
+      <option name="closed" value="true" />
+      <created>1720775846535</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1720775846535</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added code for GUI">
+      <option name="closed" value="true" />
+      <created>1720775926046</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1720775926046</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +127,8 @@
     <MESSAGE value="test commit" />
     <MESSAGE value="Created classes for all game logic, ai logic, and GUI" />
     <MESSAGE value="Added code for game logic" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added code for game logic" />
+    <MESSAGE value="Added code for ai player logic" />
+    <MESSAGE value="Added code for GUI" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added code for GUI" />
   </component>
 </project>
