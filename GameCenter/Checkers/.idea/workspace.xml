@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf1ad828-32d3-45a6-add5-226d8b3e9f51" name="Changes" comment="Updated libraries and project structure">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/javafx_base.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/javafx_controls.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/javafx_fxml.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/javafx_graphics.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/javafx_media.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/javafx_swing.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/javafx_swt.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/javafx_web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CheckerGame.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CheckerGame.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-    </list>
+    <list default="true" id="bf1ad828-32d3-45a6-add5-226d8b3e9f51" name="Changes" comment="Removed main class" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +64,7 @@
       <updated>1720774682759</updated>
       <workItem from="1720774683773" duration="2174000" />
       <workItem from="1720776987886" duration="84000" />
-      <workItem from="1720777629397" duration="658000" />
+      <workItem from="1720777629397" duration="1363000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -150,7 +138,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720777908130</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Removed main class">
+      <option name="closed" value="true" />
+      <created>1720778295553</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1720778295553</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,6 +162,7 @@
     <MESSAGE value="Added code for GUI" />
     <MESSAGE value="Added code for player text console" />
     <MESSAGE value="Updated libraries and project structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated libraries and project structure" />
+    <MESSAGE value="Removed main class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed main class" />
   </component>
 </project>
